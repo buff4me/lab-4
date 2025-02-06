@@ -1,8 +1,9 @@
-using System;
+    using System;
 
 class Program {
     static void Main() {
-        int a = 5, b = 10;
-        Console.WriteLine("Sum: " + (a + b));
+        int a = 10, b = 5;
+        Console.WriteLine("Difference: " + (a - b));
     }
 }
+
